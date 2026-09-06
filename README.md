@@ -18,8 +18,8 @@
 ### 📌 Кейсы
 
 - 🧪 **[A/B-тестирование: баннеры vs пуш-уведомления](https://github.com/komiser07/data-analyst-portfolio/tree/main/ab_test_analysis.ipynb)** — эксперимент на 37 989 платежах, статистика (t-test, Mann-Whitney U), сегментация по 1 430 торговым точкам. Пуши подняли конверсию на 5.5 п.п.
-- 🎮 **[Когортный анализ игровой аналитики](https://github.com/komiser07/data-analyst-portfolio/tree/main/sql-gaming-analytics)** — SQL-анализ 3 101 игрока, K-factor = 0.92, реферальная программа принесла +92% роста когорты.
-- 🛒 **[Анализ транзакций торговой сети](https://github.com/komiser07/data-analyst-portfolio/tree/main/retail-transactions-excel)** — расследование технической аномалии и оценка маркетинговой акции: +2.65 млн ₽ чистой прибыли.
+- 🎮 **[Когортный анализ игровой аналитики](https://github.com/komiser07/data-analyst-portfolio/tree/main/sql-gaming-analytics.pdf)** — SQL-анализ 3 101 игрока, K-factor = 0.92, реферальная программа принесла +92% роста когорты.
+- 🛒 **[Анализ транзакций торговой сети](https://github.com/komiser07/data-analyst-portfolio/tree/main/retail-transactions-excel.pdf)** — расследование технической аномалии и оценка маркетинговой акции: +2.65 млн ₽ чистой прибыли.
 
 Подробнее — в [полном портфолио](https://github.com/komiser07/data-analyst-portfolio).
 
